@@ -7,7 +7,7 @@
 **Front-end:**
 
 1. `npm install`
-1. CMD: `json-server --watch data/db.json`
+1. CMD: `json-server --watch data/db.json` OR `npx json-server --watch data/db.json`
 1. `npm run dev`
 
 <hr>
